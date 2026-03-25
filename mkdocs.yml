@@ -1,0 +1,31 @@
+site_name: Портфолио Дудова Анатолия
+site_description: Документация, ранбуки и инструкции и прочее
+site_url: https://anatoliy-dudov.github.io/port-Dudov/
+repo_url: https://github.com/anatoliy-dudov/port-Dudov
+repo_name: port-Dudov
+
+theme:
+  name: material
+  language: ru
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Темная тема
+    - scheme: slate
+      toggle:
+        icon: material/brightness-1
+        name: Светлая тема
+
+nav:
+  - Main page: index.md
+  - Documentation:
+    - API-Documentation: API.md
+    - Examples from Confluence: inc-processes.md
+  - Runbooks:
+    - Реакция на инциденты: incident-response.md
+  - User agreement: user-agreement.md
+  - About Me: about.md
+
+plugins:
+  - search
