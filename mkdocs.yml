@@ -26,6 +26,7 @@ nav:
     - Реакция на инциденты: incident-response.md
   - User agreement: user-agreement.md
   - About Me: about.md
+  - Contacts: contacts.md
 
 plugins:
   - search
