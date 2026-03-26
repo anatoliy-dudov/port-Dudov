@@ -2,30 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://anatoliy-dudov.github.io/port-Dudov/</loc>
-         <lastmod>2026-03-25</lastmod>
+         <lastmod>2026-03-26</lastmod>
     </url>
     <url>
          <loc>https://anatoliy-dudov.github.io/port-Dudov/API/</loc>
-         <lastmod>2026-03-25</lastmod>
+         <lastmod>2026-03-26</lastmod>
     </url>
     <url>
          <loc>https://anatoliy-dudov.github.io/port-Dudov/about/</loc>
-         <lastmod>2026-03-25</lastmod>
+         <lastmod>2026-03-26</lastmod>
     </url>
     <url>
          <loc>https://anatoliy-dudov.github.io/port-Dudov/appServices/</loc>
-         <lastmod>2026-03-25</lastmod>
+         <lastmod>2026-03-26</lastmod>
+    </url>
+    <url>
+         <loc>https://anatoliy-dudov.github.io/port-Dudov/contacts/</loc>
+         <lastmod>2026-03-26</lastmod>
     </url>
     <url>
          <loc>https://anatoliy-dudov.github.io/port-Dudov/inc-processes/</loc>
-         <lastmod>2026-03-25</lastmod>
+         <lastmod>2026-03-26</lastmod>
     </url>
     <url>
          <loc>https://anatoliy-dudov.github.io/port-Dudov/incident-response/</loc>
-         <lastmod>2026-03-25</lastmod>
+         <lastmod>2026-03-26</lastmod>
     </url>
     <url>
          <loc>https://anatoliy-dudov.github.io/port-Dudov/user-agreement/</loc>
-         <lastmod>2026-03-25</lastmod>
+         <lastmod>2026-03-26</lastmod>
     </url>
 </urlset>
