@@ -9,7 +9,7 @@
 Не беспокойся, тут файлы с расширением *.md* вряд ли он сможет тебе как-то навредить
 <br>
 
-* [Скачать API-doc "Matchday Kras"](/portfolio-Dudov/files/API.zip)
+* [Скачать API-doc "Matchday Kras"](/port-Dudov/files/API.zip)
 <br>
 
-* [Скачать пример API-doc "QC"](/portfolio-Dudov/files/appServices.zip)
+* [Скачать пример API-doc "QC"](/port-Dudov/files/appServices.zip)
