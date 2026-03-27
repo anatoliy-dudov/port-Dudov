@@ -28,22 +28,22 @@ You can download my resume here — [Download Resume (English)](files/Tech-write
 
 This portfolio contains several examples of documentation that demonstrate different types of technical writing:
 
-- **API Documentation** – example of REST API documentation  
-- **Service Documentation** – description of an application service  
-- **Incident Response Runbook** – operational instructions for handling incidents  
-- **Incident Management Process** – example of process documentation  
-- **User Documentation** – example of end-user documentation  
+- **API Documentation** – example of REST API documentation;
+- **Service Documentation** – description of an application service;
+- **Incident Response Runbook** – operational instructions for handling incidents;
+- **Incident Management Process** – example of process documentation;
+- **User Documentation** – example of end-user documentation. 
 
 ---
 
 ## Tools & Technologies
 
-- Confluence  
-- Jira  
-- Swagger / OpenAPI  
-- Postman  
-- Markdown  
-- REST API documentation  
+- Confluence;
+- Jira;
+- Swagger / OpenAPI;
+- Postman;
+- Markdown;
+- REST API documentation.
 
 ---
 
@@ -63,11 +63,11 @@ If you would like to discuss opportunities or collaboration, please visit the **
 
 Мой опыт включает подготовку:
 
-- API-документации  
-- runbook-документов и операционных инструкций  
-- инструкций по реагированию на инциденты  
-- описаний внутренних процессов  
-- документации по сервисам и системам  
+- API-документации;
+- runbook-документов и операционных инструкций;
+- инструкций по реагированию на инциденты;
+- описаний внутренних процессов; 
+- документации по сервисам и системам.
 
 Моя задача — превращать сложную техническую информацию в понятную и полезную документацию.
 
@@ -83,22 +83,22 @@ If you would like to discuss opportunities or collaboration, please visit the **
 
 В портфолио представлены примеры различных типов документации:
 
-- **API Documentation** — пример документации REST API  
-- **Service Documentation** — описание приложения или сервиса  
-- **Incident Response Runbook** — инструкция по реагированию на инциденты  
-- **Incident Management Process** — пример описания процесса  
-- **User Documentation** — пример пользовательской документации  
+- **API Documentation** — пример документации REST API
+- **Service Documentation** — описание приложения или сервиса
+- **Incident Response Runbook** — инструкция по реагированию на инциденты
+- **Incident Management Process** — пример описания процесса
+- **User Documentation** — пример пользовательской документации
 
 ---
 
 ## Инструменты и технологии
 
-- Confluence  
-- Jira  
-- Swagger / OpenAPI  
-- Postman  
-- Markdown  
-- REST API  
+- Confluence;
+- Jira;
+- Swagger / OpenAPI;
+- Postman;
+- Markdown;
+- REST API.
 
 ---
 
