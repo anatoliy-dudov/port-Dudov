@@ -23,7 +23,9 @@ nav:
     - API-Documentation: API.md
     - Examples from Confluence: inc-processes.md
   - Runbooks:
-    - Реакция на инциденты: incident-response.md
+    - Incident response: incident-response-EN.md
+    - Реакция на инциденты: incident-response-RU.md
+    - Runbook: incident-response-runbook.md
   - User agreement: user-agreement.md
   - About Me: about.md
   - Contacts: contacts.md

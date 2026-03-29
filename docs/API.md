@@ -13,3 +13,6 @@
 <br>
 
 * [Скачать пример API-doc "QC"](/port-Dudov/files/appServices.zip)
+<br>
+
+* [Скачать пример API-doc (PDF)](/port-Dudov/files/auth_api_PO.pdf)
