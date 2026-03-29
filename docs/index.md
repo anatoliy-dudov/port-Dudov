@@ -75,7 +75,7 @@ If you would like to discuss opportunities or collaboration, please visit the **
 
 ## Резюме
 
-Скачать моё резюме — [Скачать резюме](files/Tech-writer-Dudov.pdf)
+[Скачать резюме](files/Tech-writer-Dudov.pdf)
 
 ---
 
